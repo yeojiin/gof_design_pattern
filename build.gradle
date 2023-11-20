@@ -33,6 +33,9 @@ dependencies {
 	testImplementation 'org.assertj:assertj-core:3.19.0'
 
 	testImplementation 'io.rest-assured:rest-assured:3.3.0'
+
+	// google.guava
+	implementation group: 'com.google.guava', name: 'guava', version: '11.0.2'
 }
 
 tasks.named('test') {

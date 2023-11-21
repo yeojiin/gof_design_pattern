@@ -1,4 +1,4 @@
-package com.study.pattern.domain;
+package com.study.pattern.strategy.domain;
 
 import com.study.pattern.strategy.domain.duck.Duck;
 import com.study.pattern.strategy.domain.duck.ReadheadDuck;
